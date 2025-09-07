@@ -13,7 +13,7 @@ export const Item = (props) => {
             </div>
             <div className="item-price-old">
                 Rs.{props.old_price}
-            </div>
+            </div> 
         </div>
     </div>
   )
